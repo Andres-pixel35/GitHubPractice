@@ -1,4 +1,4 @@
 # GitHubPractice
-This repo exists as the only means of practice the Git and Github features
+This repo exists with the only purpose of practice
 
 empezamos!!! 
