@@ -1,4 +1,4 @@
-# GitHubPLatziCourse
-This repo exists with whe only mean of practice the Git and Github features
+# GitHubPractice
+This repo exists as whe only means of practice the Git and Github features
 
 empezamos!!! 
